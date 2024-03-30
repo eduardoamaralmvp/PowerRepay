@@ -1,6 +1,8 @@
 # PowerRepay
 Olá, tudo bem?
 
+conteudo atualizado
+
 Meu nome é Eduardo Amaral. Sou Microsoft MVP - Business Applications, título dado pela Microsoft para os profissionais que se destacam em uma determinada tecnologia no mundo e sou MIE Expert (Microsoft Innovative Educator), outra nomeação dada pela Microsoft para os educadores que mudam a vida das pessoas em projetos educacionais. Professor de ensino superior e evangelista Microsoft. Atuo como profissional de TI a mais de 20 anos.
 
 Uma das coisas que mais me motivam é ensinar pessoas e saber que contribuí para o crescimento delas.
